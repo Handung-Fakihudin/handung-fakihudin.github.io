@@ -1,0 +1,37 @@
+body {
+  background-color: #282728;
+}
+section {
+  padding-top: 5rem;
+}
+.bgr-red {
+  background-color: #fc0202;
+}
+.bgr-white {
+  background-color: #e9e9ea;
+}
+.int-red {
+  color: #fc0202;
+}
+.int-white {
+  color: #e9e9ea;
+}
+.int-dark {
+  color: #282728;
+}
+.jumbotron {
+  padding-top: 6.2rem;
+  background-color: #282728;
+}
+.btn-red {
+  background-color: #fc0202;
+  color: #e9e9ea;
+}
+.int-footer {
+  font-size: 0.8rem;
+}
+.int-footer a {
+  color: #e9e9ea;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
